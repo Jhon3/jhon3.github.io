@@ -3,22 +3,6 @@
   
   
     {
-      "title"    : "Why books should be your priority?",
-      "tags"     : "books and read",
-      "categories" : "life",
-      "url"      : "/why-books-should-be-your-priority/",
-      "date"     : "11/22/2018"
-    } ,
-  
-    {
-      "title"    : "The quick brown fox jumps over a lazy dog",
-      "tags"     : "css and tips",
-      "categories" : "css",
-      "url"      : "/the-quick-brown-fox-jumps-over-a-lazy-dog/",
-      "date"     : "10/09/2018"
-    } ,
-  
-    {
       "title"    : "A wonderful serenity has taken possession of my entire soul",
       "tags"     : "platform, javascript, and vscode",
       "categories" : "code",

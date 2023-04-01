@@ -5,37 +5,9 @@
     <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 01 Apr 2023 00:03:33 -0300</pubDate>
-    <lastBuildDate>Sat, 01 Apr 2023 00:03:33 -0300</lastBuildDate>
+    <pubDate>Sat, 01 Apr 2023 02:02:43 -0300</pubDate>
+    <lastBuildDate>Sat, 01 Apr 2023 02:02:43 -0300</lastBuildDate>
     <generator>Jekyll v3.9.3</generator>
-    
-      <item>
-        <title>Why books should be your priority?</title>
-        <description>&lt;p&gt;Cas sociis natoque penatibus et magnis &lt;a href=&quot;#&quot;&gt;dis parturient montes&lt;/a&gt;, nascetur ridiculus mus. &lt;em&gt;Aenean eu leo quam.&lt;/em&gt; Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;Etiam porta &lt;strong&gt;sem malesuada magna&lt;/strong&gt; mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.&lt;/p&gt; &lt;!--page--&gt; &lt;h2 id=&quot;inline-html-elements&quot;&gt;Inline HTML elements&lt;/h2&gt; &lt;p&gt;HTML defines a long list of available inline tags, a complete list...</description>
-        <pubDate>Thu, 22 Nov 2018 09:26:40 -0300</pubDate>
-        <link>http://localhost:4000/why-books-should-be-your-priority/</link>
-        <guid isPermaLink="true">http://localhost:4000/why-books-should-be-your-priority/</guid>
-        
-        <category>books</category>
-        
-        <category>read</category>
-        
-        <category>life</category>
-      </item>
-    
-      <item>
-        <title>The quick brown fox jumps over a lazy dog</title>
-        <description>&lt;p&gt;Cas sociis natoque penatibus et magnis &lt;a href=&quot;#&quot;&gt;dis parturient montes&lt;/a&gt;, nascetur ridiculus mus. &lt;em&gt;Aenean eu leo quam.&lt;/em&gt; Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;Etiam porta &lt;strong&gt;sem malesuada magna&lt;/strong&gt; mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.&lt;/p&gt; &lt;h2 id=&quot;inline-html-elements&quot;&gt;Inline HTML elements&lt;/h2&gt; &lt;p&gt;HTML defines a long list of available inline tags, a complete list of...</description>
-        <pubDate>Tue, 09 Oct 2018 09:26:40 -0300</pubDate>
-        <link>http://localhost:4000/the-quick-brown-fox-jumps-over-a-lazy-dog/</link>
-        <guid isPermaLink="true">http://localhost:4000/the-quick-brown-fox-jumps-over-a-lazy-dog/</guid>
-        
-        <category>css</category>
-        
-        <category>tips</category>
-        
-        <category>css</category>
-      </item>
     
       <item>
         <title>A wonderful serenity has taken possession of my entire soul</title>
