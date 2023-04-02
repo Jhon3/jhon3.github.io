@@ -3,7 +3,10 @@ body {
   height: 100%;
 }
 
-@import url(https://fonts.googleapis.com/css?family=Sofia);
+@font-face {
+  font-family: 'Open Sans';
+  src: url(/assets/fonts/Permanent_Marker/PermanentMarker-Regular.ttf) format('opentype');
+}
 
 .bar-header {
   background-color: $primaryDark;
@@ -24,7 +27,7 @@ body {
     margin: 0;
     height: rem(32px);
     line-height: rem(32px);
-    font-family: 'Sofia';
+    font-family: 'Open Sans';
 
     a {
       display: block;
