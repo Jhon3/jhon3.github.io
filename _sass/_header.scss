@@ -4,8 +4,8 @@ body {
 }
 
 @font-face {
-  font-family: 'Open Sans';
-  src: url(/assets/fonts/Permanent_Marker/PermanentMarker-Regular.ttf) format('opentype');
+  font-family: 'TradeWinds';
+  src: url(/assets/fonts/Trade_Winds/TradeWinds-Regular.ttf) format('opentype');
 }
 
 .bar-header {
@@ -27,7 +27,7 @@ body {
     margin: 0;
     height: rem(32px);
     line-height: rem(32px);
-    font-family: 'Open Sans';
+    font-family: 'TradeWinds';
 
     a {
       display: block;
