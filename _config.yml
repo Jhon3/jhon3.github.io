@@ -8,8 +8,8 @@ tags:
   - jekyll
   - theme
   - netlify
-email: youremail@xyz.com
-disqus_username: disqus_username
+email: cabral.jhon00@gmail.com
+#disqus_username: disqus_username
 show_hero: true
 menu:
   - title: Home
@@ -23,11 +23,11 @@ menu:
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: github_username
+github_username: jhon3
 #facebook_username: facebook_username
 #twitter_username: twitter_username
 #instagram_username: instagram_username
-linkedin_username: linkedin_username
+linkedin_username: jhonattan-cabral
 #medium_username: medium_username
 
 # Posts Settings

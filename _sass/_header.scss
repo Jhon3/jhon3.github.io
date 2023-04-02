@@ -3,6 +3,8 @@ body {
   height: 100%;
 }
 
+@import url(https://fonts.googleapis.com/css?family=PermanentMarker:400italic,700italic,400,700);
+
 .bar-header {
   background-color: $primaryDark;
   padding: rem(10px) rem(15px);
@@ -16,11 +18,13 @@ body {
     padding: rem(15px) rem(0px);
   }
 
+
   .logo {
     display: inline-block;
     margin: 0;
     height: rem(32px);
     line-height: rem(32px);
+    font-family: 'Tangerine';
 
     a {
       display: block;
